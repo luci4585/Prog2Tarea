@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimerosPasos", "PrimerosPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesicionesIfElseSwitch", "DesicionesIfElseSwitch\DesicionesIfElseSwitch.csproj", "{B3624778-0F73-4A9E-928D-6785EA5DD8AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeticionWiledoWileFor", "RepeticionWiledoWileFor\RepeticionWiledoWileFor.csproj", "{268FAE38-CC41-405B-B5DB-D1DF4F695FC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{B3624778-0F73-4A9E-928D-6785EA5DD8AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3624778-0F73-4A9E-928D-6785EA5DD8AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3624778-0F73-4A9E-928D-6785EA5DD8AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{268FAE38-CC41-405B-B5DB-D1DF4F695FC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{268FAE38-CC41-405B-B5DB-D1DF4F695FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{268FAE38-CC41-405B-B5DB-D1DF4F695FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{268FAE38-CC41-405B-B5DB-D1DF4F695FC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
