@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimerosPasos", "PrimerosPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesicionesIfElseSwitch", "DesicionesIfElseSwitch\DesicionesIfElseSwitch.csproj", "{B3624778-0F73-4A9E-928D-6785EA5DD8AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeticionWiledoWileFor", "RepeticionWiledoWileFor\RepeticionWiledoWileFor.csproj", "{268FAE38-CC41-405B-B5DB-D1DF4F695FC1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeticionWiledoFor", "RepeticionWiledoWileFor\RepeticionWiledoFor.csproj", "{268FAE38-CC41-405B-B5DB-D1DF4F695FC1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosyResponsabilidades", "MetodosyResponsabilidades\MetodosyResponsabilidades.csproj", "{59269D20-D084-4C1A-A38A-E3C699AEC476}"
 EndProject
